@@ -21,3 +21,4 @@ Cringe-worthy Catchphrases is a fun and interactive web application where users 
 This project is both creative and fun, allowing users to engage with the content in a light-hearted manner. It also provides a great opportunity to showcase full-stack development skills, including user authentication, database management, and responsive design.
 
 
+this 3rd commit
